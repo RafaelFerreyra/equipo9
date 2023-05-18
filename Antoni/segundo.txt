@@ -1,4 +1,7 @@
 Hola Mundo!
+<<<<<<< HEAD
+Hola ! yo quiero agreagr un contendo que creo que es muy importante 😁
+=======
 
 Nuevo contenido :/
 Estamos probando el funcionamiento de gitHub 
